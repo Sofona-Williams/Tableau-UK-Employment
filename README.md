@@ -18,9 +18,8 @@ This interactive Tableau dashboard explores employment data across the UK, highl
 ## 📁 Project Files
 
 - Dashboard built in **Tableau Public**
-- Screenshot of the dashboard: `uk_employment_dashboard.png`
+<img width="692" alt="UK employment" src="https://github.com/user-attachments/assets/394a5844-e7ba-417c-b503-03ce0f37ceb4" />
 
-> To replicate or embed this dashboard on Tableau Public, you can view the original by clicking on **"View on Tableau Public"** at the bottom of the dashboard.
 
 ---
 
@@ -30,13 +29,7 @@ This interactive Tableau dashboard explores employment data across the UK, highl
 - **Mapbox (for geo maps)**
 - UK Employment Dataset (source not specified)
 
----
 
-## 📷 How to Add the Screenshot (If Hosting on GitHub)
-
-1. Create a folder in your repository named `images`
-2. Upload your dashboard screenshot (e.g. `uk_employment_dashboard.png`)
-3. Use the following Markdown to embed it:
 
 ```markdown
-![UK Employment Dashboard](images/uk_employment_dashboard.png)
+<img width="692" alt="UK employment" src="https://github.com/user-attachments/assets/394a5844-e7ba-417c-b503-03ce0f37ceb4" />
