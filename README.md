@@ -2,7 +2,7 @@
 
 This interactive Tableau dashboard explores employment data across the UK, highlighting **industry-specific changes**, **regional employment patterns**, and the **top-performing sub-industries**.
 
-![UK Employment Dashboard](images/uk_employment_dashboard.png)
+![UK Employment Dashboard] ( https://1drv.ms/i/c/e4499d0cac982eb0/EbsdqpIg3FpKlu2D9EA4iYoBfS9xSD1n6vPo3bR_7iNh0g?e=EqMkiG ) 
 
 ---
 
